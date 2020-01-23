@@ -530,7 +530,8 @@ section#contact :-ms-input-placeholder {
 section#contact iframe
 {
   height: 350px;
-  width: 500px;
+  width: 454px;
+  float: right;
 }
 
 
