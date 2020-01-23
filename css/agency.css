@@ -272,6 +272,11 @@ header.masthead .intro-text .intro-heading {
   width: 50%;
 }
 
+.safetyText
+{
+  background: #CDD1D5;
+}
+
 #portfolio .portfolio-item {
   right: 0;
   margin: 0 0 15px;
