@@ -200,7 +200,7 @@ img::-moz-selection {
 header.masthead {
   text-align: center;
   color: white;
-  background-image: url("../img/header-bg211.png");
+  background-image: url("../img/header-bg211.PNG");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
