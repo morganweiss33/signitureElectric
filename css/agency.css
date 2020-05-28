@@ -134,7 +134,7 @@ img::-moz-selection {
   right: 0;
   padding: 13px;
   text-transform: uppercase;
-  color: #1C64B5;
+  color: #0928BC;
   border: 0;
   background-color: white;
   font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
@@ -142,12 +142,12 @@ img::-moz-selection {
 
 /*the text to the left of nav bar */
 #mainNav .navbar-brand {
-  color: #0C4B89;
+  color: #0928BC;
   font-family: 'Kaushan Script', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
 }
 
 #mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
-  color: #0C4B89;
+  color: #0928BC;
 }
 
 /*color of links to pages in mobile and web */
@@ -157,7 +157,7 @@ img::-moz-selection {
   font-weight: bold;
   padding: 0.75em 0;
   letter-spacing: 1px;
-  color: #0C4B89;
+  color: #0928BC;
   font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
 }
 
